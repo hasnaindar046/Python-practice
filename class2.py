@@ -20,5 +20,10 @@
 
 
 #string
-name = " hasnain"
-print(name)
+# name = " hasnain"
+# print(name)
+
+
+#integer
+age = 17
+print(age)
