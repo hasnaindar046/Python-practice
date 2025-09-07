@@ -25,5 +25,9 @@
 
 
 #integer
-age = 17
-print(age)
+# age = 17
+# print(age)
+
+#float
+number = 7.3
+print(number)
