@@ -29,5 +29,5 @@
 # print(age)
 
 #float
-number = 7.3
-print(number)
+# number = 7.3
+# print(number)

@@ -6,3 +6,16 @@
 # print(fruit_list[2]) 
 # number_list = [1,2,3,4,5,6,7,8,9]
 # print(number_list[6]+number_list[7])
+
+# insert
+number_list = [1,2,3,4,5]
+number_list.insert(3,5)
+print(number_list)
+
+# pop
+number_list.pop()
+print(number_list)
+
+# remove
+number_list.remove(2)
+print(number_list)
