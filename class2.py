@@ -6,16 +6,19 @@
 
 #data types
 #1- string
-print("hi how are you?")
+# print("hi how are you?")
 # 2- Integer
-print(10)
+# print(10)
 # 3- float
-print(1.9)
+# print(1.9)
 # 4- boolean
-print(True)
+# print(True)
 # 5- dictionary
 # 6- list
 # 7- tuple
 # 8- set
 
 
+#string
+name = " hasnain"
+print(name)
