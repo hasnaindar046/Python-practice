@@ -19,3 +19,4 @@ print(number_list)
 # remove
 number_list.remove(2)
 print(number_list)
+
