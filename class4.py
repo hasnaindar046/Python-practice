@@ -9,14 +9,14 @@
 
 # insert
 number_list = [1,2,3,4,5]
-number_list.insert(3,5)
-print(number_list)
+# number_list.insert(3,5)
+# print(number_list)
 
-# pop
-number_list.pop()
-print(number_list)
+# # pop
+# number_list.pop(2)
+# print(number_list)
 
-# remove
-number_list.remove(2)
-print(number_list)
-
+# # remove
+# number_list.remove(2)
+# print(number_list)
+print(number_list[1:3:4])
