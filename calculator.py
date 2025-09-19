@@ -11,6 +11,6 @@ def calculator(num1, num2, operator):
     print('Wrong input')
 num1 = int(input("Enter first number: "))
 num2 = int(input("Enter second number: "))
-operator = input("Enter operator:")
+operator = input("Enter operator: ")
 result = calculator(num1, num2, operator)
 print("Result :", result)
